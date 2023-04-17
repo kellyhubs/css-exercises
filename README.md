@@ -30,15 +30,15 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
 
 ## Checklist for exercises (inesert check :white_check_mark: into [] upon completion)
 1. Foundations: 
-*01-css-methods: [:white_check_mark:]
-*02-class-id-selectors: [:white_check_mark:]
-*03-grouping-selectors: [:white_check_mark:]
-*04-chaining-selectors: [:white_check_mark:]
-*05-descendant-combinator: [:white_check_mark:]
-*06-cascade-fix: [:white_check_mark:]
+- 01-css-methods: [:white_check_mark:]
+- 02-class-id-selectors: [:white_check_mark:]
+- 03-grouping-selectors: [:white_check_mark:]
+- 04-chaining-selectors: [:white_check_mark:]
+- 05-descendant-combinator: [:white_check_mark:]
+- 06-cascade-fix: [:white_check_mark:]
 
 2. Margin and Padding: 
-*margin-and-padding-1: []
-*margin-and-padding-2: []
+- margin-and-padding-1: []
+- margin-and-padding-2: []
 
 
