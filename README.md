@@ -28,7 +28,7 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
 - You may need to add some elements to your HTML to get things into the right spot. (For the first few exercises we make it explicit when this needs to happen.)
 - You may need to add more selectors to your CSS file. The first few exercises have almost everything already done for you, but as you progress you'll find that you need to add more and more to get the correct result.
 
-## Checklist for exercises (inesert check :white_check_mark: into [] upon completion)
+## Checklist for exercises (insert check :white_check_mark: into [] upon completion)
 1. Foundations: 
 - 01-css-methods: [:white_check_mark:]
 - 02-class-id-selectors: [:white_check_mark:]
