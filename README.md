@@ -38,7 +38,9 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
 - 06-cascade-fix: [:white_check_mark:]
 
 2. Margin and Padding: 
-- margin-and-padding-1: []
-- margin-and-padding-2: []
+- margin-and-padding-1: [:white_check_mark:]
+- margin-and-padding-2: [:white_check_mark:]
+
+
 
 
