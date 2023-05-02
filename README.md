@@ -41,6 +41,13 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
 - margin-and-padding-1: [:white_check_mark:]
 - margin-and-padding-2: [:white_check_mark:]
 
-
+3. Flex: 
+- 01-flex-center: [:white_check_mark:]
+- 02-flex-header: [:white_check_mark:]
+- 03-flex-header-2: [:white_check_mark:]
+- 04-flex-information: [:white_check_mark:]
+- 05-flex-modal: [:white_check_mark:]
+- 06-flex-layout: [:white_check_mark:]
+- 07-flex-layout-2: [:white_check_mark:]
 
 
